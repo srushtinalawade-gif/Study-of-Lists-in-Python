@@ -1,4 +1,7 @@
 # Study-of-Lists-in-Python
+## Name- Srushti J. Nalawade 
+## PRN- 25070123157 
+## Batch- A1
 ## Aim:
 To understand Python lists and perform operations such as indexing, slicing, and using built-in list methods.
 ## Objectives
